@@ -18,4 +18,5 @@ To run the demonstration locally in seconds, open your terminal in the root dire
 
 4. Run the entry file:
    npx tsx src/index.ts
-   (You will see the console log the polymorphic execution in action, demonstrating how the Core Engine dynamically resolves and falls back between the Base, E-Commerce, and B2B configurations at runtime!)
+
+(You will see the console log the polymorphic execution in action, demonstrating how the Core Engine dynamically resolves and falls back between the Base, E-Commerce, and B2B configurations at runtime!)
